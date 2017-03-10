@@ -1,0 +1,3 @@
+Puplic Class Company{
+
+}
